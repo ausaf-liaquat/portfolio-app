@@ -176,7 +176,8 @@ span.navbar-text {
   transition: 0.3s ease-in-out;
 }
 .navbar-text button:hover {
-  color: #ffffff;
+  color: #fff;
+  opacity: .6;
 }
 .navbar-text button:hover::before {
 	content: "";
